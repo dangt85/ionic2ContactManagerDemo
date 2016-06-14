@@ -1,0 +1,12 @@
+@import 'app.variables';
+
+.contact-page-content {
+  color: color($colors, primary)
+}
+
+.ios .list:before,
+.ios .list ion-header .item:before,
+.ios .list ion-header .item:after {
+  border-top: none;
+  border-bottom: none;
+}

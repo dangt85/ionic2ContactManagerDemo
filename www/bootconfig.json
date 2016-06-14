@@ -1,0 +1,15 @@
+{
+  "remoteAccessConsumerKey": "3MVG9sG9Z3Q1RlbeO3ZdeDL.RbBwkFcu72FNhUH.qI5_bNK7rNVxYf8oU2ErubkWmlrwtfXbDHh_Pqi4OXGki",
+  "oauthRedirectURI": "mobile://oauth/callback",
+  "oauthScopes": [
+    "web",
+    "api",
+    "refresh_token",
+    "offline_access"
+  ],
+  "isLocal": true,
+  "startPage": "index.html",
+  "errorPage": "error.html",
+  "shouldAuthenticate": true,
+  "attemptOfflineLoad": false
+}
